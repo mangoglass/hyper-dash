@@ -1,2 +1,5 @@
 # hyper-dash
-Dash through the words!
+
+Dash through the worlds!
+
+A simple browser game built in babylon.
